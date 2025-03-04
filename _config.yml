@@ -26,6 +26,19 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
+---
+layout: default
+title: "Mi publicación de LinkedIn"
+---
+
+Aquí va la introducción a mi publicación:
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7302320493758435328" height="715" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+
+Aquí continúa el contenido de la página...
+
+
+
 ################
 # --- Logo --- #
 ################
