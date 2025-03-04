@@ -22,6 +22,8 @@ author: Gerald Moreno-Morales
 navbar-links:
   About Me: "aboutme"
   Resources:
+
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7302320493758435328" height="715" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
